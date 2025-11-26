@@ -3,4 +3,9 @@ git add file_name or git add .
 git status
 git commit -m "Meesage"
 git restore file_name =>to resotre tracked file in case it is deleted in filesystem
-
+git status
+git remote -v
+clear  git remote -v
+git remote add origin https://github.com/aayushrai23/GITHUB-FOR-DEVOPS.git
+git remote -v
+git push origin master
