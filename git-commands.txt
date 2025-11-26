@@ -10,5 +10,15 @@ git remote add origin https://github.com/aayushrai23/GITHUB-FOR-DEVOPS.git
 git remote -v
 git push origin master
 git pull origin master => in case if you have made changes directly in github repo and want to pull changes in local as well.
-
-
+git branch
+git branch dev
+git switch dev
+git branch
+nano this_is_from_dev_branch
+git status
+git add .
+git branch -m "made a branch dev and created a file in it"
+clear
+git commit -m  "made a branch name dev and added a file in it"
+git push origin dev
+git status
